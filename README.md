@@ -1,4 +1,4 @@
-Hi 👋 My name is Saúl Aranda Espinosa
+Hola 👋 mi nombre es Saúl Aranda Espinosa
 =====================================
 Desarrollador Java/.NET
 -----------------------
